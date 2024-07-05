@@ -42,4 +42,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-lib/ffi/goffi
+lib/ffi/goffi/MacOSX14.2.sdk
+lib/ffi/goffi/build
